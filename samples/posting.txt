@@ -1,0 +1,12 @@
+Software Engineering Intern - Summer 2027
+
+What you'll do:
+- Build backend services in Java and Spring Boot
+- Write SQL queries against PostgreSQL databases
+- Deploy services with Docker on AWS
+
+What we're looking for:
+- Experience with Java, Python, or C++
+- Familiarity with Git and Linux
+- Understanding of data structures and algorithms
+- Strong communication and teamwork skills

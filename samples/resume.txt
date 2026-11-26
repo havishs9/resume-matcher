@@ -1,0 +1,16 @@
+Havish Singavarapu
+Purdue University - B.S. Artificial Intelligence
+
+Technical Skills
+Languages: Python, Java, C++, JavaScript, SQL, Bash
+Tools: Git, GitHub, Linux, PostgreSQL, VS Code
+
+Experience
+PatentPlus AI - Software Engineering Intern
+- Built REST API integrations and Python pipelines using pandas to search patent text
+- Redesigned the product UI with React
+
+Projects
+Order Book Simulator (C++)
+- Wrote unit testing suite and validated the engine across 3,000+ trading rounds
+- Used data structures and algorithms to match orders quickly
